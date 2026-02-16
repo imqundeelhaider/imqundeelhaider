@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Bilal Ashraf 👋
+# Hi there, I'm Qundeel Haider 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Python+%7C+Django+%7C+FastAPI+Developer;AI+Solutions+Engineer;Automation+and+Backend+Specialist;Open+Source+Contributor" alt="Typing SVG" />
@@ -101,7 +101,7 @@ With experience in **Django**, **FastAPI**, and **AI automations**, I love blend
 ## 💼 Featured Projects
 
 - 🧠 [RAG Blog Assistant](https://github.com/imbilalashraf/rag-blog-assistant) —  
-  An AI-powered **RAG system** that writes **religious blogs** in the author’s unique tone and style using **FastAPI**, **LLMs**, and **vector embeddings**.
+  An AI-powered **RAG system** that writes **religious blogs** in the author's unique tone and style using **FastAPI**, **LLMs**, and **vector embeddings**.
 
 - 🍽️ [Restaurant AI Assistant](https://github.com/imbilalashraf/restaurant-ai-assistant) —  
   A **DRF-based customer care system** that connects to **Facebook and Instagram business pages**, trains on restaurant data, and auto-replies to customers using conversational AI.
@@ -151,5 +151,5 @@ With experience in **Django**, **FastAPI**, and **AI automations**, I love blend
 
 <div align="center">
   <i>"Code with purpose, automate with logic, and innovate with AI."</i><br>
-  <b>— Muhammad Bilal Ashraf</b>
+  <b>— Qundeel Haider</b>
 </div>
