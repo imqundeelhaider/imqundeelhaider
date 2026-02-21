@@ -18,7 +18,7 @@ With experience in **Django**, **FastAPI**, and **AI automations**, I love blend
 - 🧠 **Expertise:** Django, Django REST Framework, FastAPI, LangChain, n8n Automations, Botpress
 - 🏗 **Architecture:** REST APIs, Microservices, Event-driven Systems, Clean Code  
 - ⚙️ **Domain:** AI Applications, FinTech, SaaS Platforms, Automation Systems  
-- 📬 **Contact:** imbilalashraf00@gmail.com  
+- 📬 **Contact:** imqundeelhaider@gmail.com  
 - 🔥 **Passion:** Turning ideas into intelligent backend and AI-driven products  
 
 ---
