@@ -125,7 +125,7 @@ With experience in **Django**, **FastAPI**, **Next.js**, **React**, and **AI aut
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/imqundeelhaider">
+  <a href="https://qundeel-haider.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/bilal-ashraf-856569334/">
