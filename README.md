@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I’m a **Python Backend & AI Developer** passionate about crafting intelligent, scalable systems.  
+I’m a **Full Stack & AI Engineer** passionate about crafting intelligent, scalable systems.  
 With experience in **Django**, **FastAPI**, and **AI automations**, I love blending backend engineering with intelligent systems to build real-world digital solutions.
 
 - 🧠 **Expertise:** Django, Django REST Framework, FastAPI, LangChain, n8n Automations, Botpress
