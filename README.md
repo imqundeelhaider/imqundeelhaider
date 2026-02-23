@@ -1,7 +1,7 @@
 # Hi there, I'm Qundeel Haider 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Python+%7C+Django+%7C+FastAPI+Developer;AI+Solutions+Engineer;Automation+and+Backend+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Python+%7C+Django+%7C+FastAPI+Developer;Full+Stack+%26+AI+Engineer;Next.js+%7C+React+Frontend+Dev;Automation+and+Backend+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,14 +12,14 @@
 
 ## 🚀 About Me
 
-I’m a **Full Stack & AI Engineer** passionate about crafting intelligent, scalable systems.  
-With experience in **Django**, **FastAPI**, and **AI automations**, I love blending backend engineering with intelligent systems to build real-world digital solutions.
+I'm a **Full Stack & AI Engineer** passionate about crafting intelligent, scalable systems.  
+With experience in **Django**, **FastAPI**, **Next.js**, **React**, and **AI automations**, I love blending backend engineering with modern frontend development and intelligent systems to build real-world digital solutions.
 
-- 🧠 **Expertise:** Django, Django REST Framework, FastAPI, LangChain, n8n Automations, Botpress
+- 🧠 **Expertise:** Django, Django REST Framework, FastAPI, Next.js, React, LangChain, n8n Automations, Botpress
 - 🏗 **Architecture:** REST APIs, Microservices, Event-driven Systems, Clean Code  
 - ⚙️ **Domain:** AI Applications, FinTech, SaaS Platforms, Automation Systems  
 - 📬 **Contact:** imqundeelhaider@gmail.com  
-- 🔥 **Passion:** Turning ideas into intelligent backend and AI-driven products  
+- 🔥 **Passion:** Turning ideas into intelligent full stack and AI-driven products  
 
 ---
 
@@ -66,8 +66,10 @@ With experience in **Django**, **FastAPI**, and **AI automations**, I love blend
 
 ### 💻 Frontend & Others
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
