@@ -79,15 +79,15 @@ With experience in **Django**, **FastAPI**, **Next.js**, **React**, and **AI aut
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imbilalashraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imqundeelhaider&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbilalashraf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imqundeelhaider&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imbilalashraf&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imqundeelhaider&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imbilalashraf&theme=tokyonight&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imqundeelhaider&theme=tokyonight&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 
 ---
@@ -95,29 +95,29 @@ With experience in **Django**, **FastAPI**, **Next.js**, **React**, and **AI aut
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imbilalashraf&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imqundeelhaider&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 💼 Featured Projects
 
-- 🧠 [RAG Blog Assistant](https://github.com/imbilalashraf/rag-blog-assistant) —  
+- 🧠 [RAG Blog Assistant](https://github.com/imqundeelhaider/rag-blog-assistant) —  
   An AI-powered **RAG system** that writes **religious blogs** in the author's unique tone and style using **FastAPI**, **LLMs**, and **vector embeddings**.
 
-- 🍽️ [Restaurant AI Assistant](https://github.com/imbilalashraf/restaurant-ai-assistant) —  
+- 🍽️ [Restaurant AI Assistant](https://github.com/imqundeelhaider/restaurant-ai-assistant) —  
   A **DRF-based customer care system** that connects to **Facebook and Instagram business pages**, trains on restaurant data, and auto-replies to customers using conversational AI.
 
-- 🏡 [ImmoPilot](https://github.com/imbilalashraf/immopilot) —  
+- 🏡 [ImmoPilot](https://github.com/imqundeelhaider/immopilot) —  
   A **property management AI agent** built with **FastAPI** that manages **properties, units, tenants**, and interprets **German legal documents (Swiss law)** to guide users with property insights and analytics.
 
-- 📊 [Visualize Coding (Botpress + Zoho + Zapier)](https://github.com/imbilalashraf/visualize-coding) —  
+- 📊 [Visualize Coding (Botpress + Zoho + Zapier)](https://github.com/imqundeelhaider/visualize-coding) —  
   An **AI-driven mortgage analysis assistant** built on **Botpress**, integrated with **Zoho CRM** and **Zapier** to analyze loan data via NLP and automate email + CRM updates.
 
-- 🏫 [School Management System](https://github.com/imbilalashraf/school-management-system) —  
+- 🏫 [School Management System](https://github.com/imqundeelhaider/school-management-system) —  
   A **Django + PostgreSQL** platform for schools to manage **teachers, students, and online lectures**, featuring **real-time activity tracking**, **auto-logout**, and **performance analytics**.
 
-- 💹 [Quantum Signals](https://github.com/imbilalashraf/quantum-signals) —  
+- 💹 [Quantum Signals](https://github.com/imqundeelhaider/quantum-signals) —  
   A **FastAPI-based microservice** that uses **AI/ML models** for **crypto signal analysis and backtesting**. Includes **Zitadel authentication**, **API key system**, **rate limiting**, and **API analytics** for paid subscriptions.
 
 ---
